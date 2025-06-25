@@ -1,9 +1,7 @@
 # Buenas con todos~😸👋
 Holiss~, soy Kitlly, un gusto, y soy alguien que adora a los gatos tanto como el internet... 🐈💻✨
 
-Principalmente paso todo el tiempo jugando, pero tambien me gusta realizar cosas como programar y sacar provecho a todo las herramientas que encuentre a mi alcance :3
-
-Discord mi main, generalmente estare todo el tiempo conectado allí, asi que con mayor prioridad mandame solicitud y con gusto te responderé para charlar o jugar ^w^
+Principalmente paso todo el tiempo jugando, pero tambien me gusta realizar cosas como programar y sacar provecho a todo las herramientas que encuentre a mi alcance. Discord mi main, generalmente estare todo el tiempo conectado allí, asi que con mayor prioridad mandame solicitud y con gusto te responderé para charlar o jugar ^w^
 ## 🔗 Links de algunas redes sociales :D
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/751175384652840970)
 [![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kitllycat31)
@@ -17,14 +15,15 @@ Discord mi main, generalmente estare todo el tiempo conectado allí, asi que con
 
 👻 Insano (waza)
 
-😔 Jugador de brawl (lamentablemente)
+⏹️ Jugardor de Aseprite (nisiquiera es un juego xd)
 
 🐟 Conjugador ineficiente
+
+😔 Jugador de brawl (lamentablemente)
 
 😹 Shitposter (aunque ya casi todos murieron)
 
 😆 Dependiente del 'xd'
-
 
 <p align="center">
   <img src="Kitlly_by_Kristine_F._Vargas.jpg" alt="foto" width="200"/>
