@@ -9,21 +9,21 @@ Principalmente paso todo el tiempo jugando, pero tambien me gusta realizar cosas
 [![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199207490118/)
 
 ## Otras cosas que soy...
-🖌️ PixelArtist 2 años de experiencia
+🖌️ PixelArtist 2 años de experiencia (yo ese)
 
 💻 Dev iniciado (pero con ganas de aprender)
 
 👻 Insano (waza)
 
-⏹️ Jugardor de Aseprite (nisiquiera es un juego xd)
+⏹️ Jugador de Aseprite (nisiquiera es un juego xd)
 
-🐟 Conjugador ineficiente
+🐟 Conjugador ineficiente ('oso'so'ero)
 
 😔 Jugador de brawl (lamentablemente)
 
 😹 Shitposter (aunque ya casi todos murieron)
 
-😆 Dependiente del 'xd'
+😆 Dependiente del 'xd' (xd)
 
 <p align="center">
   <img src="Kitlly_by_Kristine_F._Vargas.jpg" alt="foto" width="200"/>
