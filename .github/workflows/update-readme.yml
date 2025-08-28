@@ -2,7 +2,7 @@ name: Actualizar fecha diaria
 
 on:
   schedule:
-    - cron: "0 1 * * *" # se ejecuta todos los días en la mañana xd
+    - cron: "0 11 * * *" # se ejecuta todos los días en la mañana xd (6:00)
   workflow_dispatch: # permite ejecutarlo manualmente desde la pestaña Actions :3
 
 permissions:
