@@ -28,4 +28,4 @@ Principalmente paso todo el tiempo jugando, pero tambien me gusta realizar cosas
 <p align="center">
   <img src="Kitlly_by_Kristine_F._Vargas.jpg" alt="foto" width="200"/>
 </p>
-🐈‍⬛ Ultima Actu. : 27/08/2025
+🐈‍⬛ Ultima Actu. : 28/08/2025
