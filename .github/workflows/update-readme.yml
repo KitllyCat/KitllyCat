@@ -4,11 +4,12 @@ env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
 on:
-  permissions:
-    contents: write
   schedule:
     - cron: "0 11 * * *" # Todos los días a las 6:00 a.m. Lima/Perú (UTC-5)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
