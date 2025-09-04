@@ -18,7 +18,7 @@ jobs:
       - name: Actualizar fecha en README
         run: |
           FECHA=$(date +"%d/%m/%Y")
-          sed -i "s/^🐈‍⬛ Ultima Actu. :.*/🐈‍⬛ Ultima Actu. : $FECHA/" README.md
+          sed -i "s|<!-- FECHA -->|$FECHA|" README.md
 
       - name: Configurar Git
         run: |
