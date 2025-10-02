@@ -8,10 +8,10 @@ Principalmente paso todo el tiempo jugando, pero tambien me gusta realizar cosas
 [![twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KitllyCat)
 [![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199207490118/)
 
-### IMPORTANTE!!!
-Aqui dejo mi actividad basada en el pixelart, donde se puede visualizar los pedidos pendientes respecto al pixelart. Si deseas alguno, puedes escribirme al md de discord y con gusto anotare y lo registrare alli :3 
-[![Trello Board](https://img.shields.io/badge/Trello-Board-blue?logo=trello&logoColor=white)](https://trello.com/b/7rQMX2z7/kitllys-dump-list)
+## IMPORTANTE!!!
+Aqui dejo mi actividad basada en el pixelart, donde se puede visualizar los pedidos pendientes respecto al pixelart. Si deseas alguno, puedes escribirme al md de discord y con gusto anotare y lo registrare alli :3
 
+[![Trello Board](https://img.shields.io/badge/Trello-Board-blue?logo=trello&logoColor=white)](https://trello.com/b/7rQMX2z7/kitllys-dump-list)
 
 ## Otras cosas que soy...
 🖌️ PixelArtist 2 años de experiencia (yo ese)
