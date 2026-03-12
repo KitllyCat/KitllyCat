@@ -37,5 +37,5 @@ Aqui dejo mi actividad basada en el pixelart, donde se puede visualizar los pedi
 <p align="center">
   <img src="Kitlly_by_Kristine_F._Vargas.jpg" alt="foto" width="200"/>
 </p>
-📅 Última actualización: <!-- FECHA --> 11/03/2026 <!-- END_FECHA -->
+📅 Última actualización: <!-- FECHA --> 12/03/2026 <!-- END_FECHA -->
 
